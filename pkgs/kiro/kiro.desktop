@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Kiro
+Comment=AI-powered IDE and development assistant
+GenericName=IDE
+Exec=kiro
+Icon=kiro
+Type=Application
+Categories=Development;IDE;TextEditor;
+StartupNotify=true
+StartupWMClass=kiro
+MimeType=text/plain;text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php3;application/x-httpd-php4;application/x-httpd-php5;application/javascript;application/json;text/x-markdown;text/x-web-markdown;text/html;text/css;text/x-sql;text/xml;
+Keywords=development;programming;ide;editor;code;
