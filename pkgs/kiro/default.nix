@@ -134,11 +134,11 @@
 
 stdenv.mkDerivation rec {
   pname = "kiro";
-  version = "0.2.38";
+  version = "0.2.68";
 
   src = fetchurl {
-    url = "https://prod.download.desktop.kiro.dev/releases/202509032213--distro-linux-x64-tar-gz/202509032213-distro-linux-x64.tar.gz";
-    hash = "sha256-nqOtD7Ef7dLYHzAM2jTybV/paUPjPYBJpa2AM0lnyIE=";
+    url = "https://prod.download.desktop.kiro.dev/releases/202509232137--distro-linux-x64-tar-gz/202509232137-distro-linux-x64.tar.gz";
+    hash = "sha256-11qfnhin28pfbahs79jvlc7a3ickx470f3hfkk3739lyz9y8c4x2";
   };
 
   # Build-time dependencies
